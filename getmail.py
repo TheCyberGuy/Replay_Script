@@ -10,7 +10,7 @@ from fx_sign_up import signup
 options = Options()
 
 
-# options.add_argument('--headless')
+options.add_argument('--headless')
 
 MAIL_URL = 'https://www.ghostlymail.com/'
 
