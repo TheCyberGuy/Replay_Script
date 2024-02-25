@@ -20,9 +20,9 @@ Ezután futtassa a main.py fájlt
 Ez a kódot headless módban futtatja, így a felhasználó nem látja a szkriptet a böngészőben dolgozni, csak az output lesz látható.
 
 
-```diff
--Az EXE fájl átmenetileg nem működik!
-```
+
+**Az EXE fájl átmenetileg nem működik!!**
+
 **Python nem telepítve**
 
 A dist mappában kattintson duplán a main.exe programra, vagy futtassa a következőképpen
