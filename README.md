@@ -23,7 +23,7 @@ Ez a kódot headless módban futtatja, így a felhasználó nem látja a szkript
 
 **Az EXE fájl átmenetileg nem működik!!**
 
-**Python nem telepítve**
+**Python nincs telepítve**
 
 A dist mappában kattintson duplán a main.exe programra, vagy futtassa a következőképpen
 
