@@ -8,6 +8,10 @@
 
 **Python telepítve**
 
+```diff
+-Az EXE fájl átmenetileg nem működik!
+```
+
 Először telepítse a szkripthez szükséges könyvtárakat a következő paranccsal
 
 `pip install -r requirements.txt`
@@ -42,4 +46,4 @@ A futtatást követően az alábbi menüt kapjuk
 3. A lokálisan lementett fiókokat és azok adatait írja ki a program egy táblázatban
 
 ### Futtatás ideje
-A rendszeren, amin írtam a .py file átlagosan **1 és 1.5 perc** alatt futott
+A rendszeren, amin írtam a .py file átlagosan **1 és 1.5 perc** alatt futott le
