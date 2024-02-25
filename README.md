@@ -41,3 +41,5 @@ A futtatást követően az alábbi menüt kapjuk
 2. Egy tetszőleges e-mailt adhatunk meg a programnak ahová kapjuk, majd a verifikációhoz szükséges linket itt viszont **magunknak kell, majd a megerősítő linkre nyomni**
 3. A lokálisan lementett fiókokat és azok adatait írja ki a program egy táblázatban
 
+### Futtatás ideje
+A rendszeren, amin írtam a .py file átlagosan **1 és 1.5 perc** alatt futott

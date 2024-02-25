@@ -10,7 +10,7 @@ from fx_sign_up import signup
 options = Options()
 
 
-options.add_argument('--headless')
+# options.add_argument('--headless')
 
 MAIL_URL = 'https://www.ghostlymail.com/'
 
@@ -38,8 +38,9 @@ def mail_and_verification():
             EC.visibility_of_element_located((By.XPATH, '/html/body/div/div[1]/main/section[2]/div[2]/div/div[3]/div'))
     )
     incoming.find_element(By.TAG_NAME, 'a').click()
+    time.sleep(5)
     driver.close()
-    print('Email és a jelszó elmentve az accounts.txt állományban a kreáció idejável bélyegezve (email:pass:idő)')
+    print('Email és a jelszó elmentve az accounts.txt állományban a létrehozás idejével bélyegezve (email:pass:idő)')
 
 
 
