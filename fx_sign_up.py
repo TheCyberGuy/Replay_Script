@@ -70,6 +70,6 @@ def signup(scraped_mail):
     form_submit.click()
 
     with open('accounts.txt', 'a') as f:
-        f.write(f'{scraped_mail}:{generated_pass} - {date.today()}\n')
+        f.write(f'{scraped_mail}:{generated_pass}:{date.today()}\n')
 
     # driver.close()

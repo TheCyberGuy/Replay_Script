@@ -39,7 +39,7 @@ def mail_and_verification():
     )
     incoming.find_element(By.TAG_NAME, 'a').click()
     driver.close()
-    print('Email és a jelszó elmentve az accounts.txt állományban a kreáció idejável bélyegezve (email:pass - idő)')
+    print('Email és a jelszó elmentve az accounts.txt állományban a kreáció idejável bélyegezve (email:pass:idő)')
 
 
 
